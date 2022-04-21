@@ -1,5 +1,5 @@
 numbers_list = []
-for i in range(1,1001):
+for i in range(1, 1001):
     if i % 2 != 0:
         numbers_list.append(i**3)
 print(numbers_list)
