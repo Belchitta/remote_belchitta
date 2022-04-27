@@ -5,4 +5,5 @@ some_list.pop(2)
 some_list.insert(1, '"05"')
 some_list.insert(-1, '"+05"')
 some_list.insert(3, '"17"')
+
 print(' '.join(some_list))
